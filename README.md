@@ -16,7 +16,7 @@ Some platforms appear thicker than others. They must be jumped on from another o
 
 The goal is to place every single box on their matching platform to finish the game.
 
-## Controls:
+## Controls
 
 **Moving Around:** WASD
 
