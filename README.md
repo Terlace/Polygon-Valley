@@ -14,7 +14,7 @@ Placing boxes on their matching platform makes them float midair, allowing the p
 
 Some platforms appear thicker than others. They must be jumped on from another object.
 
-The goal is to place every single box on its matching platform to finish the game.
+The goal is to place every single box on their matching platform to finish the game.
 
 ## Controls:
 
@@ -25,5 +25,7 @@ The goal is to place every single box on its matching platform to finish the gam
 **Picking up / placing boxes:** E
 
 ## Reference
+
+The project had to be inspired by Sokoban, an old puzzle game where the player moves boxes to place them on their respective slot.
 
 Sokoban Preview: https://en.wikipedia.org/wiki/Sokoban
